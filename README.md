@@ -4,6 +4,9 @@
 Я запустила в контейнере приложение “aafire” с помощью команды `docker run -it aafire` 
 
 ![Снимок экрана 2024-11-24 151220](https://github.com/user-attachments/assets/a2049b1d-8375-4c93-9568-2463ec11ecf5)
+
+содержимое моего докер файла
+![Снимок экрана 2024-11-28 160956](https://github.com/user-attachments/assets/ea6db00c-ce08-4b3e-988e-f577b64463e6)
 Далее я запустила два контейнера с aafire и оставила их в работающем состоянии.  
 Открыла ещё одно окно терминала и создала сеть при помощи команды `docker network create myNetwork`
 ![Снимок экрана 2024-11-24 152813](https://github.com/user-attachments/assets/fe6831a6-d34e-4fd2-8431-ad8b493abb65)
